@@ -182,15 +182,15 @@ If you use this code or build on these findings, please cite the paper:
             Study of Trained Transformers},
   author = {Romero Castella, Ivan Alejandro},
   year   = {2026},
-  doi    = {10.5281/zenodo.20575450},
-  url    = {https://doi.org/10.5281/zenodo.20575450},
+  doi    = {10.5281/zenodo.20584330},
+  url    = {https://doi.org/10.5281/zenodo.20584330},
   note   = {Zenodo preprint}
 }
 ```
 
 Plain text:
 
-> Romero Castella, I. A. (2026). *What Outermost Layers Do: A Cross-Architecture Mechanistic Study of Trained Transformers*. Zenodo. https://doi.org/10.5281/zenodo.20575450
+> Romero Castella, I. A. (2026). *What Outermost Layers Do: A Cross-Architecture Mechanistic Study of Trained Transformers*. Zenodo. https://doi.org/10.5281/zenodo.20584330
 
 ## License
 
