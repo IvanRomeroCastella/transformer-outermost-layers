@@ -138,7 +138,7 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-# Run the full pipeline (both blocks, ~30-60 min on RTX 5060 Ti).
+# Run the full pipeline (both blocks, ~40 min on RTX 5060 Ti).
 python run_pipeline.py
 
 # Open pipeline_report.html in a browser to see the consolidated report.
@@ -176,15 +176,21 @@ with the step-by-step commands.
 
 If you use this code or build on these findings, please cite the paper:
 
-```
-@misc{outermost-layers-2026,
+```bibtex
+@misc{romerocastella2026outermost,
   title  = {What Outermost Layers Do: A Cross-Architecture Mechanistic
             Study of Trained Transformers},
-  author = {Ivan},
+  author = {Romero Castella, Ivan Alejandro},
   year   = {2026},
-  note   = {arXiv preprint, see https://arxiv.org/abs/XXXX.XXXXX}
+  doi    = {10.5281/zenodo.20575450},
+  url    = {https://doi.org/10.5281/zenodo.20575450},
+  note   = {Zenodo preprint}
 }
 ```
+
+Plain text:
+
+> Romero Castella, I. A. (2026). *What Outermost Layers Do: A Cross-Architecture Mechanistic Study of Trained Transformers*. Zenodo. https://doi.org/10.5281/zenodo.20575450
 
 ## License
 
